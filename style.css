@@ -1,0 +1,121 @@
+h1, h2 {
+
+
+
+
+   color: rgb(8, 8, 18);
+
+
+ }
+
+
+ main {
+
+
+   grid-area: mainy;
+
+
+   background: rgb(232, 206, 236);
+
+
+ }
+
+
+ body {
+
+    
+   background: rgb(114, 179, 228);
+
+
+ }
+
+
+ footer {
+
+
+   background: rgb(149, 221, 172);
+
+
+ }
+
+
+ aside {
+
+
+   grid-area: aside1;
+
+
+   background: rgb(240, 234, 182);
+
+
+ }
+
+
+ p {
+
+
+   color: rgb(11, 3, 3);
+
+
+ }
+
+
+ ul {
+
+
+   /*background: rgb(232, 206, 236);*/
+
+
+   font-family: 'Dancing Script', cursive;
+
+
+   border: 2px solid rgb(248, 106, 106);
+
+
+ }
+
+
+ ol {
+
+
+   /*background: rgb(232, 206, 236);*/
+
+
+   font-family: 'Dancing Script', cursive;
+
+
+   border: 2px solid rgb(248, 106, 106);
+
+
+ }
+
+
+ ol, ul {
+
+
+   padding: 5px 20px;
+
+
+   border-radius: 4px;
+
+
+ }
+
+
+ h1, strong {
+
+
+   color: rgb(34, 34, 232);
+
+
+ }
+
+
+em{
+
+
+   color: rgb(34, 34, 232);
+
+
+}
+
